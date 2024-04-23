@@ -1,0 +1,9 @@
+name: DynaGrams
+version: '${project.version}'
+main: studio.mkko120.dynagrams.DynaGrams
+api-version: '1.19'
+load: STARTUP
+
+depend:
+  - DecentHolograms
+  - PlaceholderAPI
