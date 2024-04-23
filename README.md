@@ -3,6 +3,11 @@
 DynaGrams is a plugin that allows you to create dynamic holograms in Minecraft. 
 You can create holograms that display text, placeholders, and even animations!
 
+## Dependencies
+This plugin depends on two other plugins that are required for it to work properly:
+- [DecentHolograms](https://www.spigotmc.org/resources/decentholograms-1-8-1-20-4-papi-support-no-dependencies.96927/) - core hologram functionality
+- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) - for handling placeholders inside of holograms
+
 ## Features
 - Create holograms that display text, placeholders, and animations
 - Customize the appearance of your holograms
